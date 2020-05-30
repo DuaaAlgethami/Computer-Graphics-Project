@@ -1,2 +1,2 @@
 # Computer-Graphics-Project
-- In this project, I draw a house using c++ 
+- In this project, I drew a house using c++ 
